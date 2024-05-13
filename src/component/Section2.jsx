@@ -14,6 +14,7 @@ const Frame2 =() =>{
                 <img className="shortlogo" src="/img/flipcart.png" alt="flipcart"/>
                 <img className="shortlogo" src="/img/amazon.png" alt="amazon"/>
             </div>
+            
         </div>
         <div>
             <img style={{height : '70vh' }} src="/img/shoe.png" alt="shoe"/>
